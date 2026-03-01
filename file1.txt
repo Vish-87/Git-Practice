@@ -1,4 +1,9 @@
 Hello Git
 Second line added
+<<<<<<< HEAD
 line from main branch final
 line from conflict branch final
+=======
+this file should be large
+this change is from feature branch
+>>>>>>> beb70b8ff1cb441b79bc5d155469d5dbe69f60e9
