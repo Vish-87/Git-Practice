@@ -2,3 +2,4 @@ This is second file
 Adding something random.
 This change is from feature branch
 This line is for cherry-pick practice
+Amend practice line
